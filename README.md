@@ -1,6 +1,6 @@
 # newREADME
 
-i am prince, a student of CSE 3rd year 5th semester at CIEM KOLKATA
+i am prince, a student of CSE 3rd year 5th semester at CIEM KOLKATA 2
 
 Here is my Amazing HACKTOBER FEST 2022 Badges -->> 
 
