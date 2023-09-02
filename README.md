@@ -1,6 +1,8 @@
 # newREADME
 
-i am prince, a student of CSE 3rd year 5th semester at CIEM KOLKATA 2
+Hi, I am Prince Kumar Sharma 
+
+Here are my all Badges that i won in this contest
 
 Here is my Amazing HACKTOBER FEST 2022 Badges -->> 
 
