@@ -1,6 +1,8 @@
 # newREADME
 
-Hi, I am Prince Kumar Sharma 
+Hi, I am Prince Kumar Sharma
+
+UG - B.Tech in CSE
 
 Here are my all Badges that i won in this contest
 
