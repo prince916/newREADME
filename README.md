@@ -1,6 +1,6 @@
-# newREADME
-
 Hi, I am Prince Kumar Sharma
+
+Skills - Git and GitHub
 
 UG - B.Tech in CSE
 
